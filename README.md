@@ -2,11 +2,11 @@
 
 Este es un modelo para la prueba de tuGerente, a continuación se explica los pasos de instalacion del mismo.
 
-- Se crearon los siguientes endpoings
-    -Users: nos permite crear a los clientes en sistema y editar su información
-    -Rooms: nos permite crear los tipos de habitaciones de un hotel
-    -Reservation: nos permite gestionar las reservas que realizan los clientes y el tipo de habitación que solicitan
-    -Payments: nos permite guardar los datos del pago que realiza el cliente y el monto a pagar.
+- Se crearon los siguientes endpoints:
+- Users: nos permite crear a los clientes en sistema y editar su información
+- Rooms: nos permite crear los tipos de habitaciones de un hotel
+- Reservation: nos permite gestionar las reservas que realizan los clientes y el tipo de habitación que solicitan
+- Payments: nos permite guardar los datos del pago que realiza el cliente y el monto a pagar.
 
 ## Instalacion
 
